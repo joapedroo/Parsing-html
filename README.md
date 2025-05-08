@@ -1,4 +1,7 @@
-# Parsing-html
+# Para usar o script, você pode:
 
-sudo chmod +x parsinghtml.sh<br>
-./parsinghtml.sh exemplo.com (.br)
+    Execução básica: ./script.sh www.site.com
+
+    Modo verboso: ./script.sh -v www.site.com
+
+    Salvar resultados: ./script.sh -o resultado.txt www.site.com
